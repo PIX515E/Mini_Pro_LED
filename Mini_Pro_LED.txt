@@ -1,0 +1,15 @@
+TODO:
+
+Finish level1 Functions.
+Use n+t for time modification during select sequence to show change in level.
+
+
+
+
+Create if(){} sequence for level1 Up/Down buttons.
+
+Make functional color changing function(s).
+
+
+
+Make everything else work.
